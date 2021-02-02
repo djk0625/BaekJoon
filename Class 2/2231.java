@@ -2,7 +2,7 @@ import java.io.*;
 import java.lang.*;
 import java.util.*;
 
-class C {
+class C2 {
     public static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args)
     {
